@@ -1,3 +1,7 @@
 Hello, this is Zani
 
+<<<<<<< HEAD
 Edited by Zani
+=======
+Edited by Eugene
+>>>>>>> 8473074b29613fd3e3b1df5a0c79d221ab3e19d2
