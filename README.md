@@ -1,2 +1,2 @@
 # UoBSoftwareTools2026GitCollab
-Uob
+This is the Uob git Collab partice
